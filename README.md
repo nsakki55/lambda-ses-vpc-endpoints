@@ -1,5 +1,8 @@
 # Invoke SES via VPC Endpoint from lambda function in private subnet
-Sample project for invoking SES from lambda in private subnet.  
+Sample project for invoking SES from lambda in private subnet.   
+# Architecture
+System architecture covered in this project is as follows.
+![architecture](./img/architecture.jpeg)
 
 # Setup Environment Variable
 Please set the following environment variables before deploying the infrastructure.
